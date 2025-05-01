@@ -5,7 +5,7 @@ Since the paper is currently under review, we are currently only providing the i
 
 *3d V-Net*: https://github.com/faustomilletari/VNet
 
-*BCL U-Net*: ./bclunet
+*BCL U-Net*: ./bclunet (unofficial)
 
 *CG-Net*: https://github.com/wutianyiRosun/CGNetSegNet
 
